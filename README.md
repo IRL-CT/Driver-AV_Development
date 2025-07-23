@@ -1,5 +1,5 @@
 # Driver-AV Training
-![Alt text](preview.png)
+![Alt text](Preview.png)
 This project implements a machine learning model for autonomous vehicle that represents the behaviors from a specific dataset. The communication between the Python backend and the Unity frontend is handled via UDP.
 
 ## Backend for Deployment (Unity UDP Playback)
